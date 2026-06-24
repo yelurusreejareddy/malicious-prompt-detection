@@ -5,8 +5,8 @@ and multiple classifiers with GridSearchCV and 5-fold cross-validation.
 
 ## Files Included
 
-- Finalproject.ipynb - end-to-end notebook with EDA, modeling, and evaluation
-- finalprojectreport.pdf - full project report
+- malicious_prompt_detection.ipynb - end-to-end notebook with EDA, modeling, and evaluation
+- project_report.pdf - full project report
 - dataset/MPDD.csv - main dataset (balanced, 50/50 malicious vs benign)
 - dataset/jailbreak_prompts.csv - jailbreak prompt samples
 - dataset/malicous_deepset.csv - malicious prompt samples
